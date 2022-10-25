@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585628373898",
+    "project_id": "themusic-c819f",
+    "storage_bucket": "themusic-c819f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585628373898:android:ad7db902bb252a53d9ae73",
+        "android_client_info": {
+          "package_name": "com.slava_dev.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585628373898-siqtr2eviuducnbl1ochve60sq675st4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hw6EBEHAWESho5IzY3GZ4fhJRuyrjLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585628373898-siqtr2eviuducnbl1ochve60sq675st4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

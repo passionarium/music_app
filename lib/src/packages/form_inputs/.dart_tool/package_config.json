@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "formz",
+      "rootUri": "file:///C:/Users/Vyacheslav%20Kovalchuk/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/formz-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "very_good_analysis",
+      "rootUri": "file:///C:/Users/Vyacheslav%20Kovalchuk/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/very_good_analysis-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "form_inputs",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2022-10-25T17:41:35.455808Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.2"
+}

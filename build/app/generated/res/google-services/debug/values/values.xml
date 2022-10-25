@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">585628373898-siqtr2eviuducnbl1ochve60sq675st4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">585628373898</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1hw6EBEHAWESho5IzY3GZ4fhJRuyrjLc</string>
+    <string name="google_app_id" translatable="false">1:585628373898:android:ad7db902bb252a53d9ae73</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1hw6EBEHAWESho5IzY3GZ4fhJRuyrjLc</string>
+    <string name="google_storage_bucket" translatable="false">themusic-c819f.appspot.com</string>
+    <string name="project_id" translatable="false">themusic-c819f</string>
+</resources>
